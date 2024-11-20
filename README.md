@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @amansethhh<br>👀 I’m interested in Web Development, AI, Cloud Computing, and Machine Learning.<br>🌱 I’m currently learning advanced React, TensorFlow, and AWS.<br>💞️ I’m looking to collaborate on innovative tech projects that drive sustainability and productivity.<br>📫 How to reach me: LinkedIn | Email: amansethonwork@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I can spend hours perfecting code but still forget my coffee in the microwave!
+👋 Hi, I’m @amansethhh<br>👀 I’m interested in Web Development, AI, Cloud Computing, and Machine Learning.<br>🌱 I’m currently learning advanced React, TensorFlow, and AWS.<br>💞️ I’m looking to collaborate on innovative tech projects that drive sustainability and productivity.<br>📫 How to reach me: LinkedIn | Email: amansethonwork@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I can spend hours perfecting code but still forget my coffee in the microwave!https://icons8.com/icon/Ud3HIiTszMes/gmail-logo
 
 
 ## 🌐 Socials:
