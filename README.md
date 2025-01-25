@@ -27,9 +27,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=amansethhh&limit=5&theme=date_night&combine_all_yearly_contributions=true)
 
 ---
-### 👀 Profile Views
+### 👀 Profile Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=amansethhh&color=blue&style=flat-square)
+#### Daily Views
+![Daily Views](https://raw.githubusercontent.com/amansethhh/your-repo/main/profile_views_graph.png)
+
+#### Weekly Gain/Loss
+![Weekly Gain](https://raw.githubusercontent.com/amansethhh/your-repo/main/weekly_gain_chart.png)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
