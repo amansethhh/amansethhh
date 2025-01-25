@@ -27,14 +27,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=amansethhh&limit=5&theme=date_night&combine_all_yearly_contributions=true)
 
 ---
-### 👀 Profile Analytics
 
-#### Daily Views
-![Daily Views](https://raw.githubusercontent.com/amansethhh/your-repo/main/profile_views_graph.png)
-
-#### Weekly Gain/Loss
-![Weekly Gain](https://raw.githubusercontent.com/amansethhh/your-repo/main/weekly_gain_chart.png)
-
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<github-amansethhh>"/>  
+    </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
