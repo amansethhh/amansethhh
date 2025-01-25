@@ -27,10 +27,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=amansethhh&limit=5&theme=date_night&combine_all_yearly_contributions=true)
 
 ---
-<div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<github-amansethhh>"/>  
-    </div>
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=amansethhh&color=blue&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
