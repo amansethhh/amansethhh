@@ -1,4 +1,4 @@
-Hi, I’m Aman 👋<br><br>I’m an engineering student focused on becoming a **Python Full-Stack Developer.<br><br>I’m currently learning and building projects using:<br>- Python for backend development  <br>- Django & Django REST Framework for APIs  <br>- React for frontend interfaces  <br>- PostgreSQL for databases  <br><br>I believe the best way to learn software engineering is by building real things, understanding how systems work end-to-end, and improving them step by step.<br><br>What you’ll find on my GitHub<br>- Small projects that helped me build strong fundamentals  <br>- Console and desktop applications from my early learning phase  <br>- Python projects focused on logic, structure, and clarity  <br>- Ongoing work as I move toward full-stack web development  <br><br>I’m intentionally keeping my focus narrow to build depth rather than spreading myself across too many technologies.<br><br>📍 Current focus: Python • Django • APIs • Databases  <br>📘 Learning through: Projects, documentation, and problem-solving  <br><br>Thanks for stopping by.
+Hi, I’m Aman 👋<br><br>I’m an engineering student focused on becoming a Python Full-Stack Developer.<br><br>I’m currently learning and building projects using:<br>- Python for backend development  <br>- Django & Django REST Framework for APIs  <br>- React for frontend interfaces  <br>- PostgreSQL for databases  <br><br>I believe the best way to learn software engineering is by building real things, understanding how systems work end-to-end, and improving them step by step.<br><br>What you’ll find on my GitHub<br>- Small projects that helped me build strong fundamentals  <br>- Console and desktop applications from my early learning phase  <br>- Python projects focused on logic, structure, and clarity  <br>- Ongoing work as I move toward full-stack web development  <br><br>I’m intentionally keeping my focus narrow to build depth rather than spreading myself across too many technologies.<br><br>📍 Current focus: Python • Django • APIs • Databases  <br>📘 Learning through: Projects, documentation, and problem-solving  <br><br>Thanks for stopping by.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amansethhh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amansethatwork@gmail.com)
@@ -14,7 +14,7 @@ Hi, I’m Aman 👋<br><br>I’m an engineering student focused on becoming a **
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amansethhh&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <!-- Snake -->
