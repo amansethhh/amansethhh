@@ -22,10 +22,6 @@ Hi, I’m Aman 👋<br><br>I’m an engineering student focused on becoming a Py
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=amansethhh&theme=neon&hide_border=false)<br/> 
 
-![](https://github-readme-stats.vercel.app/api?username=amansethhh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amansethhh&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
