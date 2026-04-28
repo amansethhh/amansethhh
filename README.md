@@ -50,9 +50,9 @@ Focus: Python • Django • APIs • Databases
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amansethhh&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=amansethhh&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border" height="150" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=amansethhh&theme=dracula" height="150" />
+<img src="https://streak-stats.demolab.com?user=amansethhh&theme=radical&hide_border" height="150" />
 
 </div>
 
@@ -60,7 +60,7 @@ Focus: Python • Django • APIs • Databases
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansethhh&layout=compact&langs_count=5&theme=dracula" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansethhh&layout=compact&langs_count=5&theme=radical&hide_border" height="150" />
 
 </div>
 
@@ -68,7 +68,7 @@ Focus: Python • Django • APIs • Databases
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app?username=amansethhh&theme=dracula&row=1&column=8&margin-w=8&margin-h=8" height="150" />
+<img src="https://github-profile-trophy.vercel.app?username=amansethhh&theme=radical&hide_border=1&column=8&margin-w=8&margin-h=8" height="150" />
 
 </div>
 
