@@ -20,7 +20,7 @@ Focus: Python • Django • APIs • Databases
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/amansethhh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:amansethatwork@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=amansethatwork@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/amansethhh)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/amansethhh)
 
@@ -50,9 +50,9 @@ Focus: Python • Django • APIs • Databases
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amansethhh&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=amansethhh&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="220" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=amansethhh&theme=dracula" height="150" />
+<img src="https://streak-stats.demolab.com?user=amansethhh&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="220" />
 
 </div>
 
@@ -60,7 +60,7 @@ Focus: Python • Django • APIs • Databases
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansethhh&layout=compact&langs_count=5&theme=dracula" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansethhh&layout=compact&langs_count=5&theme=radical&hide_border=false" height="220" />
 
 </div>
 
@@ -68,7 +68,7 @@ Focus: Python • Django • APIs • Databases
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app?username=amansethhh&theme=dracula&row=1&column=8&margin-w=8&margin-h=8" height="150" />
+<img src="https://github-profile-trophy.vercel.app?username=amansethhh&theme=radical&row=1&column=8&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" />
 
 </div>
 
@@ -84,6 +84,6 @@ Focus: Python • Django • APIs • Databases
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=amansethhh&color=red&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=amansethhh&color=blueviolet&style=for-the-badge)
 
 </div>
