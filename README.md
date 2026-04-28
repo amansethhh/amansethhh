@@ -84,6 +84,6 @@ Focus: Python • Django • APIs • Databases
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=amansethhh&color=red&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=amansethhh&color=blueviolet&style=for-the-badge)
 
 </div>
