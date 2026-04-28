@@ -15,7 +15,7 @@ On my GitHub:
 
 Focus: Python • Django • APIs • Databases
 
-##
+<br><br>
 
 <div align="center">
 
@@ -26,51 +26,64 @@ Focus: Python • Django • APIs • Databases
 
 </div>
 
-###
-
-##
+<br><br>
 
 <div align="center">
- 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-###
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-##
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amansethhh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
- <img src="https://streak-stats.demolab.com?user=amansethhh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
- 
-###
- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansethhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<br><br>
 
-##
+<div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app?username=amansethhh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=amansethhh&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=amansethhh&theme=dracula" height="150" />
+
 </div>
 
-###
-
-##
-
-<!-- Snake -->
-<div align="center">
-
- ![snake gif](https://github.com/amansethhh/amansethhh/blob/output/github-snake-dark.svg)
- </div>
-
- ###
- 
-##
+<br>
 
 <div align="center">
- 
-![](https://komarev.com/ghpvc/?username=amansethhh&color=red&style=for-the-batch)
 
-###
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansethhh&layout=compact&langs_count=5&theme=dracula" height="150" />
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app?username=amansethhh&theme=dracula&row=1&column=8&margin-w=8&margin-h=8" height="150" />
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+![snake gif](https://github.com/amansethhh/amansethhh/blob/output/github-snake-dark.svg)
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=amansethhh&color=red&style=for-the-badge)
+
+</div>
