@@ -1,25 +1,19 @@
 Hi, I’m Aman
 
-I’m an engineering student working toward becoming a Python full-stack developer. I enjoy building practical projects and understanding how systems work from end to end.
+Building full-stack web applications with Python, Django, React, and PostgreSQL.
 
-Right now, I’m focused on:
-- Developing backend applications using Python
-- Building APIs with Django and Django REST Framework
-- Creating responsive interfaces with React
-- Managing and working with PostgreSQL databases
+Currently focused on:
+- Backend development with Python and Django
+- Designing and building REST APIs
+- Developing responsive interfaces with React
+- Working with PostgreSQL databases
 
-I prefer learning by doing breaking down problems, building solutions, and improving them step by step. This approach helps me develop a strong understanding of both fundamentals and real-world development.
+On my GitHub:
+- Projects that strengthen core fundamentals and real-world development
+- Clean, structured Python implementations with clear logic
+- Ongoing work focused on full-stack web applications
 
-On my GitHub, you’ll find:
-- Small projects that strengthen core concepts
-- Early-stage console and desktop applications
-- Python-focused work emphasizing clean logic and structure
-- Ongoing projects as I move deeper into full-stack development
-
-Currently, I’m concentrating on:
-Python • Django • APIs • Databases
-
-I’m continuously learning through building, exploring documentation, and solving practical problems.
+Focus: Python • Django • APIs • Databases
 
 ##
 
