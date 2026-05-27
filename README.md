@@ -56,7 +56,7 @@ Focus: Python • Django • APIs • Databases
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -68,7 +68,7 @@ Focus: Python • Django • APIs • Databases
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app?username=amansethhh&theme=radical&hide_border=1&column=8&margin-w=8&margin-h=8" height="150" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansethhh&bg_color=0d1117&color=ff4ecd&line=ff4ecd&point=ffffff&area=true&hide_border" height="250" />
 
 </div>
 
