@@ -19,7 +19,7 @@ Focus: Python • Django • APIs • Databases
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://amanseth.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=purple)](https://amanseth.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/amansethhh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=amansethatwork@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/amansethhh)
