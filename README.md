@@ -69,14 +69,6 @@ Focus: Python • Django • APIs • Databases
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansethhh&bg_color=0d1117&color=ff4ecd&line=ff4ecd&point=ffffff&area=true&hide_border" height="200" />
-
-</div>
-
-<br><br>
-
-<div align="center">
-
 ![snake gif](https://github.com/amansethhh/amansethhh/blob/output/github-snake-dark.svg)
 
 </div>
